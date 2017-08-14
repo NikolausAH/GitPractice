@@ -1,0 +1,38 @@
+* {box-sizing:border-box}
+.Show{
+	position: relative;
+	margin: auto;
+	max-width: 1000px;
+}
+.Slides{
+	display: none;
+}
+.title{
+  font-size: 22px;
+  font-family: Arial;
+  text-align: center;
+}
+.Start, .Stop	{
+  margin-left:300px;
+}
+.image{
+	height: 200px;
+	width: 700px;
+	padding-left: 300px;
+  
+}
+.Text{
+	font-size: 20px;
+  font-family: Arial;
+	padding-top: 50px
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	}
+.Number{
+  font-size: 22px;
+  font-family: Arial;
+	top: 0;
+  text-align: center
+}
